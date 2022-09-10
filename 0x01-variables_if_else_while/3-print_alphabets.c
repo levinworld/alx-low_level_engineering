@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <unistd.h>
-:(set tabstop=8)
 /**
  * main - Entry point
  * Description: prints alphabet in lowercase then uppercase
@@ -20,7 +19,6 @@ int main(void)
 			putchar(upper_case);
 		}
 			putchar('\n');
-
 	return (0);
 	
 }
