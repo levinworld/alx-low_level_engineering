@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "main.h"
-/** 
+/**
  * main - Entry point
  * print alphabet  - function to print abc
  * Return: 0
