@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include "main.h"
 /**
- * main - Entry point
- * print alphabet  - function to print abc
+ * print_alphabet - function to print abc
+ * 
  * Return: 0
  */
 void print_alphabet(void)
