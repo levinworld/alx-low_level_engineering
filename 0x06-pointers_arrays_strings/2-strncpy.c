@@ -11,7 +11,7 @@
  *Return: returns
  */
 
-char *strncpy(char *dest, char *src, int  n)
+char *strncpy(char *dest, char *src, int n)
 {
 	int i;
 
